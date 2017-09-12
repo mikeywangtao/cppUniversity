@@ -150,6 +150,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code.cpp" />
+    <ClCompile Include="GradeBook03.cpp" />
+    <ClCompile Include="GradeBook04.cpp" />
+    <ClCompile Include="GradeBook04Pro.cpp" />
+    <ClCompile Include="GradeBookPro03.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

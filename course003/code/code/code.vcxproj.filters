@@ -32,5 +32,17 @@
     <ClCompile Include="code.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="GradeBookPro03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GradeBook03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GradeBook04Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GradeBook04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
