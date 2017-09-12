@@ -10,6 +10,8 @@
 
 extern void dis03();
 extern void dis04();
+extern void dis05();
+extern void dis06();
 
 using namespace std;
 
@@ -44,7 +46,9 @@ int main() {
 	//objGradeBook.displayMessage(strCourseName);
 
 	//dis03();
-	dis04();
+	//dis04();
+	//dis05();
+	dis06();
 
 	cout << endl;
 	system("pause");

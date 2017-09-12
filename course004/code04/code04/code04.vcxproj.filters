@@ -24,42 +24,12 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="GradeBook05.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="GradeBook06.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="code.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="GradeBookPro03.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="GradeBook03.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="GradeBook04Pro.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="GradeBook04.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="GradeBook05.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="GradeBook05Pro.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="GradeBook06.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="GradeBook06Pro.cpp">
+    <ClCompile Include="code04.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
