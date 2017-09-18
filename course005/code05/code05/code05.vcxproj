@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6E0DFDAF-E1EE-4A50-A955-65F9B880C51F}</ProjectGuid>
+    <ProjectGuid>{B602A5C4-8C74-4E97-95C8-13965D475408}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>code04</RootNamespace>
+    <RootNamespace>code05</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -145,38 +145,17 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Analysis00.h" />
-    <ClInclude Include="Assignment00.h" />
-    <ClInclude Include="DetAverage00.h" />
-    <ClInclude Include="DetAverage01.h" />
-    <ClInclude Include="FormatNum00.h" />
-    <ClInclude Include="Ifelse.h" />
     <ClInclude Include="stdafx.h" />
-    <ClInclude Include="Swuth.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Analysis00.cpp" />
-    <ClCompile Include="Analysis00Pro.cpp" />
-    <ClCompile Include="Assignment00.cpp" />
-    <ClCompile Include="Assignment00Pro.cpp" />
-    <ClCompile Include="code04.cpp" />
-    <ClCompile Include="DetAverage00.cpp" />
-    <ClCompile Include="DetAverage00Pro.cpp" />
-    <ClCompile Include="DetAverage01.cpp" />
-    <ClCompile Include="DetAverage01Pro.cpp" />
-    <ClCompile Include="FormatNum00.cpp" />
-    <ClCompile Include="FormatNum00Pro.cpp" />
-    <ClCompile Include="Ifelse.cpp" />
-    <ClCompile Include="IfelsePro.cpp" />
+    <ClCompile Include="code05.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="SwithPro.cpp" />
-    <ClCompile Include="Swuth.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

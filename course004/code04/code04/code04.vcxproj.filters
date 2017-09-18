@@ -24,12 +24,75 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Ifelse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Swuth.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DetAverage00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DetAverage01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Analysis00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FormatNum00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Assignment00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="code04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ifelse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="IfelsePro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Swuth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SwithPro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DetAverage00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DetAverage00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DetAverage01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DetAverage01Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Analysis00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Analysis00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FormatNum00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FormatNum00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment00Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
