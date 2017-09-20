@@ -9,10 +9,22 @@
 
 using namespace std;
 
+//extern void disWhile00Pro();
+//extern void disFor00Pro();
+//extern void disDowhile00Pro();
+//extern void disSwitch00Pro();		 
+extern void disLogic00Pro();
+
 
 int main() {
 	cout << "This is code 05: " << endl;
 	cout << endl;
+
+	//disWhile00Pro();
+	//disFor00Pro();
+	//disDowhile00Pro();
+	//disSwitch00Pro();
+	disLogic00Pro();
 
 	cout << endl;
 	system("pause");

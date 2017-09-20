@@ -24,12 +24,57 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="While00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="For00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dowhile00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Switch00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Logic00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="code05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="While00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="While00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="For00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="For00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dowhile00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dowhile00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Switch00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Switch00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Logic00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Logic00Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
