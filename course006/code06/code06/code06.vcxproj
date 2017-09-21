@@ -148,6 +148,7 @@
     <ClInclude Include="Maxinum00.h" />
     <ClInclude Include="Rand00.h" />
     <ClInclude Include="Rand01.h" />
+    <ClInclude Include="Rand02.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
@@ -159,6 +160,8 @@
     <ClCompile Include="Rand00Pro.cpp" />
     <ClCompile Include="Rand01.cpp" />
     <ClCompile Include="Rand01Pro.cpp" />
+    <ClCompile Include="Rand02.cpp" />
+    <ClCompile Include="Rand02Pro.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

@@ -33,6 +33,9 @@
     <ClInclude Include="Rand01.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Rand02.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -57,6 +60,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Rand01Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rand02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rand02Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

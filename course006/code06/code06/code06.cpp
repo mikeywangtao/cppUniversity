@@ -11,7 +11,8 @@ using namespace std;
 
 //extern void disMaxinum00Pro();
 //extern void disRand00Pro();
-extern void disRand01Pro();
+//extern void disRand01Pro();
+extern void disRand02Pro();
 
 int main()
 {
@@ -20,7 +21,8 @@ int main()
 
 	//disMaxinum00Pro();
 	//disRand00Pro();
-	disRand01Pro();
+	//disRand01Pro();
+	disRand02Pro();
 
 	cout << endl;
 	system("pause");
