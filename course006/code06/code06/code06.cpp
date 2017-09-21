@@ -9,12 +9,18 @@
 
 using namespace std;
 
+//extern void disMaxinum00Pro();
+//extern void disRand00Pro();
+extern void disRand01Pro();
 
 int main()
 {
 	cout << "This is code 06; " << endl;
 	cout << endl;
 
+	//disMaxinum00Pro();
+	//disRand00Pro();
+	disRand01Pro();
 
 	cout << endl;
 	system("pause");

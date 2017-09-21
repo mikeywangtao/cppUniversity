@@ -24,12 +24,39 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Maxinum00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Rand00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Rand01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="code06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Maxinum00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Maxinum00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rand00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rand00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rand01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Rand01Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
