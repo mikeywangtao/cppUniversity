@@ -145,15 +145,32 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Args00.h" />
+    <ClInclude Include="Args01.h" />
+    <ClInclude Include="Args02.h" />
+    <ClInclude Include="Args03.h" />
+    <ClInclude Include="Dice00.h" />
     <ClInclude Include="Maxinum00.h" />
     <ClInclude Include="Rand00.h" />
     <ClInclude Include="Rand01.h" />
     <ClInclude Include="Rand02.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="Voidarg00.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Args00.cpp" />
+    <ClCompile Include="Args00Pro.cpp" />
+    <ClCompile Include="Args01.cpp" />
+    <ClCompile Include="Args01Pro.cpp" />
+    <ClCompile Include="Args02.cpp" />
+    <ClCompile Include="Args02Pro.cpp" />
+    <ClCompile Include="Args03.cpp" />
+    <ClCompile Include="Args03Pro.cpp" />
     <ClCompile Include="code06.cpp" />
+    <ClCompile Include="Dice00.cpp" />
+    <ClCompile Include="Dice00Pro.cpp" />
+    <ClCompile Include="Inlinefun00Pro.cpp" />
     <ClCompile Include="Maxinum00.cpp" />
     <ClCompile Include="Maxinum00Pro.cpp" />
     <ClCompile Include="Rand00.cpp" />
@@ -168,6 +185,8 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="Voidarg00.cpp" />
+    <ClCompile Include="Voidarg00Pro.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

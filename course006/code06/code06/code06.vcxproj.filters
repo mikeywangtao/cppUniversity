@@ -36,6 +36,24 @@
     <ClInclude Include="Rand02.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Dice00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Voidarg00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Args00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Args01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Args02.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Args03.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -66,6 +84,45 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Rand02Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dice00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dice00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Voidarg00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Voidarg00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Inlinefun00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Args00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Args00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Args01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Args01Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Args02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Args02Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Args03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Args03Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
