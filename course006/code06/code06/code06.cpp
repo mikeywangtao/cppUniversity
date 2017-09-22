@@ -21,7 +21,8 @@ using namespace std;
 //extern void disArgs02Pro();
 //extern void disArgs03Pro();
 //extern void disOverload00Pro();
-extern void disTempFunMaxMin00Pro();
+//extern void disTempFunMaxMin00Pro();
+extern void disRec00Pro();
 
 
 //int intNumber = 45;
@@ -51,7 +52,8 @@ int main()
 	//disArgs03Pro();
 	//disArgs99Pro();
 	//disOverload00Pro();
-	disTempFunMaxMin00Pro();
+	//disTempFunMaxMin00Pro();
+	disRec00Pro();
 
 
 	cout << endl;

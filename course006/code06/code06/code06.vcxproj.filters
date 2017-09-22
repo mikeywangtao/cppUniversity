@@ -60,6 +60,9 @@
     <ClInclude Include="TempFunMaxMin00.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Recursion00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -138,6 +141,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="TempFunMaxMin00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursion00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursion00Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
