@@ -19,10 +19,20 @@ using namespace std;
 //extern void disArgs00Pro();
 //extern void disArgs01Pro();
 //extern void disArgs02Pro();
-extern void disArgs03Pro();
-extern void disArgs99Pro();
+//extern void disArgs03Pro();
+//extern void disOverload00Pro();
+extern void disTempFunMaxMin00Pro();
 
-int intNumber = 45;
+
+//int intNumber = 45;
+//void disArgs99Pro() {
+//	int intNumber = 39;
+//
+//	cout << "Local value : " << intNumber
+//		<< "\nGlobal value : " << ::intNumber << endl;
+//}
+
+
 int main()
 {
 	cout << "This is code 06; " << endl;
@@ -38,18 +48,16 @@ int main()
 	//disArgs00Pro();
 	//disArgs01Pro();
 	//disArgs02Pro();
-	disArgs03Pro();
-	disArgs99Pro();
+	//disArgs03Pro();
+	//disArgs99Pro();
+	//disOverload00Pro();
+	disTempFunMaxMin00Pro();
+
 
 	cout << endl;
 	system("pause");
     return 0;
 }
 
-void disArgs99Pro() {
-	int intNumber = 39;
 
-	cout << "Local value : " << intNumber
-		<< "\nGlobal value : " << ::intNumber << endl;
-}
 

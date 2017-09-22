@@ -54,6 +54,12 @@
     <ClInclude Include="Args03.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Overload00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TempFunMaxMin00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -123,6 +129,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Args03Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Overload00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Overload00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TempFunMaxMin00Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
