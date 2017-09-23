@@ -13,5 +13,9 @@ public:
 	void disArray0006();
 
 	void disArray0007();
+
+	void disArray0008();
+	void disArray0009();
+	void disArray0010();
 };
 

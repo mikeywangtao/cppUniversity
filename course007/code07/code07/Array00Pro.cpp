@@ -19,4 +19,7 @@ void disArray00Pro() {
 	objArray00.disArray0006();
 
 	objArray00.disArray0007();
+	objArray00.disArray0010();
+
+
 }

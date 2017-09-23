@@ -133,14 +133,14 @@ void Array00::disArray0006() {
 }
 
 void Array00::disArray0007() {
-	cout << "this is disArray0006 : " << endl;
+	cout << "this is disArray0007 : " << endl;
 	char subChr1[20];
 	char sbuChr2[] = "string literal";
 
 	cout << "Enter the string \"hello there\":";
 	cin >> subChr1;
 
-	cout << "string1 is: " << subChr1 << "\nstring2 is:" << sbuChr2;
+	cout << "string1 is: " << subChr1 << "\nstring2 is: " << sbuChr2;
 	cout << "\nstring1 with spaces between characters is:\n";
 
 	for (int i = 0; subChr1[i] != '\0'; i++) {
@@ -150,4 +150,42 @@ void Array00::disArray0007() {
 	cin >> subChr1;
 	cout << "\nstring1 is:" << subChr1 << endl;
 	cout << endl;
+}
+
+void Array00::disArray0008() {
+	cout << "this is disArray0008 : " << endl;
+	static int sunIntStatic[3];
+	cout << "\nValues on entering staticArrayInit:\n";
+	for (int i = 0; i < 3; i++) {
+		cout << "array1[" << i << "] = " << sunIntStatic[i] << "  ";
+	}
+	cout << "\nValues on exiting staticArrayInit:\n";
+	for (int i = 0; i < 3; i++) {
+		cout << "array1[" << i << "] = " << (sunIntStatic[i] += 5) << "  ";
+	}
+
+	cout << endl;
+}
+
+void Array00::disArray0009() {
+	cout << "this is disArray0009 : " << endl;
+	int sunIntStatic[3] = {1, 23, 45};
+	cout << "\nValues on entering aoutomaticArrayInit:\n";
+	for (int i = 0; i < 3; i++) {
+		cout << "array2[" << i << "] = " << sunIntStatic[i] << "  ";
+	}
+	cout << "\nValues on exiting aoutomaticArrayInit:\n";
+	for (int i = 0; i < 3; i++) {
+		cout << "array2[" << i << "] = " << (sunIntStatic[i] += 5) << "  ";
+	}
+	cout << endl;
+}
+
+void Array00::disArray0010() {
+	cout << "\nFirst call to each function:\n";
+	disArray0008();
+	disArray0009();
+	cout << "\nSecond call to each function:\n";
+	disArray0008();
+	disArray0009();
 }
