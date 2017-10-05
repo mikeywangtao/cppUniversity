@@ -42,6 +42,9 @@
     <ClInclude Include="MulArrayGb00.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="VectorSimp00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -84,6 +87,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="MulArrayGb00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorSimp00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorSimp00Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

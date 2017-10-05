@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{62041A59-1BCA-498F-8BF0-DBBE891A3D23}</ProjectGuid>
+    <ProjectGuid>{72235C7C-2CFF-4BAE-AC39-AC37072B3E7D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>code07</RootNamespace>
+    <RootNamespace>code08</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -145,38 +145,17 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Array00.h" />
-    <ClInclude Include="ArrayGB00.h" />
-    <ClInclude Include="InsertSort00.h" />
-    <ClInclude Include="LineSearch00.h" />
-    <ClInclude Include="MulArray00.h" />
-    <ClInclude Include="MulArrayGb00.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
-    <ClInclude Include="VectorSimp00.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Array00.cpp" />
-    <ClCompile Include="Array00Pro.cpp" />
-    <ClCompile Include="ArrayGB00.cpp" />
-    <ClCompile Include="ArrayGB00Pro.cpp" />
-    <ClCompile Include="code07.cpp" />
-    <ClCompile Include="InsertSort00.cpp" />
-    <ClCompile Include="InsertSort00Pro.cpp" />
-    <ClCompile Include="LineSearch00.cpp" />
-    <ClCompile Include="LineSearch00Pro.cpp" />
-    <ClCompile Include="MulArray00.cpp" />
-    <ClCompile Include="MulArray00Pro.cpp" />
-    <ClCompile Include="MulArrayGb00.cpp" />
-    <ClCompile Include="MulArrayGb00Pro.cpp" />
+    <ClCompile Include="code08.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="VectorSimp00.cpp" />
-    <ClCompile Include="VectorSimp00Pro.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
