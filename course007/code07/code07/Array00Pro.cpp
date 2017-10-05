@@ -21,5 +21,5 @@ void disArray00Pro() {
 	objArray00.disArray0007();
 	objArray00.disArray0010();
 
-
+	objArray00.disArray0013();
 }

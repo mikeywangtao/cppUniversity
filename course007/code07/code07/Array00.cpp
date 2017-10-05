@@ -189,3 +189,43 @@ void Array00::disArray0010() {
 	disArray0008();
 	disArray0009();
 }
+
+void Array00::disArray0011(int b[], int sizeOfArray) {
+	cout << "this is disArray0011 : " << endl;
+	for (int i = 0; i < sizeOfArray; i++) {
+		b[i] *= 2;
+	}
+	cout << endl;
+}
+
+void Array00::disArray0012(int e) {
+	cout << "this is disArray0011 : " << endl;
+	cout << "Value of element in modifyElement: " << (e *=2) << endl;
+	cout << endl;
+}
+
+void Array00::disArray0013() {
+	const int arraySize = 5;
+	int a[arraySize] = {0, 1, 2, 3, 4};
+
+	cout << "Effects of passing entire array by reference:"
+		<< "\n\nThe values of the original array are: \n";
+
+	for (int i = 0; i < arraySize; i++) {
+		cout << setw(3) << a[i];
+	}
+	cout << endl;
+
+	disArray0011(a, arraySize);
+	cout << "The values of the modified array are : \n";
+
+	for (int i = 0; i < arraySize; i++) {
+		cout << setw(3) << a[i];
+	}
+
+	cout << "\n\n\nEffects of passing array element by value: "
+		<< "\n\na[3] after modifyElement: " << a[3] << endl;
+	disArray0012(a[3]);
+	cout << "a[3] after modifyElement: " << a[3] << endl;
+}
+

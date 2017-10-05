@@ -17,5 +17,9 @@ public:
 	void disArray0008();
 	void disArray0009();
 	void disArray0010();
+
+	void disArray0011(int[], int );
+	void disArray0012(int );
+	void disArray0013();
 };
 

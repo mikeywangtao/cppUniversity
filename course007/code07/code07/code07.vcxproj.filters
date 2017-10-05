@@ -27,6 +27,21 @@
     <ClInclude Include="Array00.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ArrayGB00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LineSearch00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertSort00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MulArray00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MulArrayGb00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -39,6 +54,36 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Array00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayGB00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayGB00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LineSearch00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LineSearch00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertSort00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertSort00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MulArray00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MulArray00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MulArrayGb00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MulArrayGb00Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

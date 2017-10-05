@@ -9,7 +9,12 @@
 
 using namespace std;
 
-extern void disArray00Pro();
+//extern void disArray00Pro();
+//extern void disArrayGB00Pro();
+//extern void disLineSearch00Pro();
+//extern void disInsertSort00Pro();
+//extern void disMularray00Pro();
+extern void disMularraygb00Pro();
 
 
 int main() {
@@ -17,7 +22,12 @@ int main() {
 	cout << "this is code 7 : " << endl;
 	cout << endl;
 
-	disArray00Pro();
+	//disArray00Pro();
+	//disArrayGB00Pro();
+	//disLineSearch00Pro();
+	//disInsertSort00Pro();
+	//disMularray00Pro();
+	disMularraygb00Pro();
 
 	cout << endl;
 	system("pause");
