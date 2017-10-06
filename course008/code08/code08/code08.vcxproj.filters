@@ -24,12 +24,66 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Ptr00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ptr01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ptr02.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PtrSort03.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sizeof04.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SubPtr05.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="code08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ptr00.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ptr00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ptr01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ptr01Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ptr02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ptr02Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PtrSort03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PtrSort03Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sizeof04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sizeof04Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SubPtr05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SubPtr05Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

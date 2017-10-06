@@ -145,17 +145,35 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Ptr00.h" />
+    <ClInclude Include="Ptr01.h" />
+    <ClInclude Include="Ptr02.h" />
+    <ClInclude Include="PtrSort03.h" />
+    <ClInclude Include="Sizeof04.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="SubPtr05.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code08.cpp" />
+    <ClCompile Include="Ptr00.cpp" />
+    <ClCompile Include="Ptr00Pro.cpp" />
+    <ClCompile Include="Ptr01.cpp" />
+    <ClCompile Include="Ptr01Pro.cpp" />
+    <ClCompile Include="Ptr02.cpp" />
+    <ClCompile Include="Ptr02Pro.cpp" />
+    <ClCompile Include="PtrSort03.cpp" />
+    <ClCompile Include="PtrSort03Pro.cpp" />
+    <ClCompile Include="Sizeof04.cpp" />
+    <ClCompile Include="Sizeof04Pro.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="SubPtr05.cpp" />
+    <ClCompile Include="SubPtr05Pro.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
