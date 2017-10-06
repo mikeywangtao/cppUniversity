@@ -48,6 +48,12 @@
     <ClInclude Include="Ptrsort06.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="PtrSunfun07.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PtrStr08.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -102,6 +108,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Ptrsort06Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PtrSunfun07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PtrSunfun07Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PtrStr08.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PtrStr08Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

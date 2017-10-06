@@ -16,7 +16,9 @@ using namespace std;
 //extern void disSizeof04Pro();
 //extern void disSubptr05Pro();
 //extern void disDeckOfCards06Pro();
-extern void disPtrsort06Pro();
+//extern void disPtrsort06Pro();
+//extern void disPtrsunfun07Pro();
+extern void disPtrstr08Pro();
 
 
 int main()
@@ -31,7 +33,9 @@ int main()
 	//disSizeof04Pro();					
 	//disSubptr05Pro();
 	//disDeckOfCards06Pro();
-	disPtrsort06Pro();
+	//disPtrsort06Pro();
+	//disPtrsunfun07Pro();
+	disPtrstr08Pro();
 
 	cout << endl;
 	cout << endl;

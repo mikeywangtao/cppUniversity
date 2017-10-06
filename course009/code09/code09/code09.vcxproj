@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{72235C7C-2CFF-4BAE-AC39-AC37072B3E7D}</ProjectGuid>
+    <ProjectGuid>{03131DD9-7C69-485A-9D13-FA63103B17CB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>code08</RootNamespace>
+    <RootNamespace>code09</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -86,7 +86,7 @@
       <PrecompiledHeader>Use</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>
@@ -145,47 +145,17 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DeckOfCards06.h" />
-    <ClInclude Include="Ptr00.h" />
-    <ClInclude Include="Ptr01.h" />
-    <ClInclude Include="Ptr02.h" />
-    <ClInclude Include="PtrSort03.h" />
-    <ClInclude Include="Ptrsort06.h" />
-    <ClInclude Include="PtrStr08.h" />
-    <ClInclude Include="PtrSunfun07.h" />
-    <ClInclude Include="Sizeof04.h" />
     <ClInclude Include="stdafx.h" />
-    <ClInclude Include="SubPtr05.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="code08.cpp" />
-    <ClCompile Include="DeckOfCards06.cpp" />
-    <ClCompile Include="DeckOfCards06Pro.cpp" />
-    <ClCompile Include="Ptr00.cpp" />
-    <ClCompile Include="Ptr00Pro.cpp" />
-    <ClCompile Include="Ptr01.cpp" />
-    <ClCompile Include="Ptr01Pro.cpp" />
-    <ClCompile Include="Ptr02.cpp" />
-    <ClCompile Include="Ptr02Pro.cpp" />
-    <ClCompile Include="PtrSort03.cpp" />
-    <ClCompile Include="PtrSort03Pro.cpp" />
-    <ClCompile Include="Ptrsort06.cpp" />
-    <ClCompile Include="Ptrsort06Pro.cpp" />
-    <ClCompile Include="PtrStr08.cpp" />
-    <ClCompile Include="PtrStr08Pro.cpp" />
-    <ClCompile Include="PtrSunfun07.cpp" />
-    <ClCompile Include="PtrSunfun07Pro.cpp" />
-    <ClCompile Include="Sizeof04.cpp" />
-    <ClCompile Include="Sizeof04Pro.cpp" />
+    <ClCompile Include="code09.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="SubPtr05.cpp" />
-    <ClCompile Include="SubPtr05Pro.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
