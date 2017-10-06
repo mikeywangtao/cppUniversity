@@ -5,15 +5,12 @@
 #include "string"
 #include "cctype"
 #include "vector"
-#include "cstdlib"
-#include "ctime"
 
-#include "DeckOfCards06.h"
+#include "Ptrsort06.h"
 
 using namespace std;
 
-void disDeckOfCards06Pro() {
-	DeckOfCards06 objDoc06;
-	objDoc06.shuffle();
-	objDoc06.deal();
+void disPtrsort06Pro() {
+	Ptrsort06 objPs06;
+	objPs06.disPtrsort0600();
 }

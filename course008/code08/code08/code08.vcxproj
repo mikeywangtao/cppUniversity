@@ -145,10 +145,12 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DeckOfCards06.h" />
     <ClInclude Include="Ptr00.h" />
     <ClInclude Include="Ptr01.h" />
     <ClInclude Include="Ptr02.h" />
     <ClInclude Include="PtrSort03.h" />
+    <ClInclude Include="Ptrsort06.h" />
     <ClInclude Include="Sizeof04.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="SubPtr05.h" />
@@ -156,6 +158,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code08.cpp" />
+    <ClCompile Include="DeckOfCards06.cpp" />
+    <ClCompile Include="DeckOfCards06Pro.cpp" />
     <ClCompile Include="Ptr00.cpp" />
     <ClCompile Include="Ptr00Pro.cpp" />
     <ClCompile Include="Ptr01.cpp" />
@@ -164,6 +168,8 @@
     <ClCompile Include="Ptr02Pro.cpp" />
     <ClCompile Include="PtrSort03.cpp" />
     <ClCompile Include="PtrSort03Pro.cpp" />
+    <ClCompile Include="Ptrsort06.cpp" />
+    <ClCompile Include="Ptrsort06Pro.cpp" />
     <ClCompile Include="Sizeof04.cpp" />
     <ClCompile Include="Sizeof04Pro.cpp" />
     <ClCompile Include="stdafx.cpp">

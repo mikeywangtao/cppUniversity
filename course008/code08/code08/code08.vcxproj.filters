@@ -42,6 +42,12 @@
     <ClInclude Include="SubPtr05.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="DeckOfCards06.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ptrsort06.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -84,6 +90,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="SubPtr05Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DeckOfCards06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DeckOfCards06Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ptrsort06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ptrsort06Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
