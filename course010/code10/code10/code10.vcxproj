@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{03131DD9-7C69-485A-9D13-FA63103B17CB}</ProjectGuid>
+    <ProjectGuid>{68E8D13D-1DB9-48DB-84D7-DBAFAD7E6579}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>code09</RootNamespace>
+    <RootNamespace>code10</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -145,23 +145,11 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ClsCount02.h" />
-    <ClInclude Include="ClsCreDes04.h" />
-    <ClInclude Include="ClsSalesPerson03.h" />
-    <ClInclude Include="ClsTime01.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ClsCount02.cpp" />
-    <ClCompile Include="ClsCount02Pro.cpp" />
-    <ClCompile Include="ClsCreDes04.cpp" />
-    <ClCompile Include="ClsCreDes04Pro.cpp" />
-    <ClCompile Include="ClsSalesPersion03Pro.cpp" />
-    <ClCompile Include="ClsSalesPerson03.cpp" />
-    <ClCompile Include="ClsTime01.cpp" />
-    <ClCompile Include="ClsTime01Pro.cpp" />
-    <ClCompile Include="code09.cpp" />
+    <ClCompile Include="code10.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

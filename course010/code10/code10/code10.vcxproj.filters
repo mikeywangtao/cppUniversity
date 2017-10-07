@@ -24,48 +24,12 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="ClsTime01.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="ClsCount02.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="ClsSalesPerson03.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="ClsCreDes04.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="code09.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ClsTime01.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ClsTime01Pro.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ClsCount02.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ClsCount02Pro.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ClsSalesPerson03.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ClsSalesPersion03Pro.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ClsCreDes04.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ClsCreDes04Pro.cpp">
+    <ClCompile Include="code10.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
