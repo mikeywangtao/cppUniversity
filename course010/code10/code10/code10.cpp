@@ -11,11 +11,17 @@
 
 using namespace std;
 
+//extern void disClsIncrement01Pro();
+extern void disCls02Pro();
+
 
 int main()
 {
 	cout << "This is code 10 !" << endl;
 	cout << endl;
+
+	//disClsIncrement01Pro();
+	disCls02Pro();
 
 	cout << endl;
 	cout << endl;
