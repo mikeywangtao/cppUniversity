@@ -10,7 +10,7 @@
 
 using namespace std;
 
-
+extern void disCls01Pro();
 
 
 int main()
@@ -19,6 +19,7 @@ int main()
 	cout << endl;
 	cout << endl;
 
+	disCls01Pro();
 
 	cout << endl;
 	cout << endl;
