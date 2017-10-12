@@ -11,7 +11,8 @@
 using namespace std;
 
 //extern void disCls01Pro();
-extern void disCls02Pro();
+//extern void disCls02Pro();
+extern void disCls03Pro();
 
 
 int main()
@@ -21,7 +22,8 @@ int main()
 	cout << endl;
 
 	//disCls01Pro();
-	disCls02Pro();
+	//disCls02Pro();
+	disCls03Pro();
 
 	cout << endl;
 	cout << endl;
