@@ -13,7 +13,8 @@ using namespace std;
 
 //extern void disClsIncrement01Pro();
 //extern void disCls02Pro();
-extern void disCls03EmployeePro();
+//extern void disCls03EmployeePro();
+extern void disCls04Pro();
 
 
 int main()
@@ -23,7 +24,8 @@ int main()
 
 	//disClsIncrement01Pro();
 	//disCls02Pro();
-	disCls03EmployeePro();
+	//disCls03EmployeePro();
+	disCls04Pro();
 
 	cout << endl;
 	cout << endl;

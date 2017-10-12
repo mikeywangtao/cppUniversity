@@ -39,6 +39,9 @@
     <ClInclude Include="Cls03Static.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Cls04Interface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -70,6 +73,15 @@
     </ClCompile>
     <ClCompile Include="Cls03Static.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cls04Interface.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cls04InterfacePro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Cls04Implementation.h">
+      <Filter>头文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

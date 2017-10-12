@@ -150,6 +150,7 @@
     <ClInclude Include="Cls03Employee.h" />
     <ClInclude Include="Cls03Static.h" />
     <ClInclude Include="ClsIncrement01.h" />
+    <ClInclude Include="Cls04Interface.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
@@ -160,8 +161,11 @@
     <ClCompile Include="Cls03Employee.cpp" />
     <ClCompile Include="Cls03Pro.cpp" />
     <ClCompile Include="Cls03Static.cpp" />
+    <ClCompile Include="Cls04Implementation.h" />
+    <ClCompile Include="Cls04InterfacePro.cpp" />
     <ClCompile Include="ClsIncrement01.cpp" />
     <ClCompile Include="ClsIncrement01Pro.cpp" />
+    <ClCompile Include="Cls04Interface.cpp" />
     <ClCompile Include="code10.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
