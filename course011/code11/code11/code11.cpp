@@ -12,7 +12,8 @@ using namespace std;
 
 //extern void disCls01Pro();
 //extern void disCls02Pro();
-extern void disCls03Pro();
+//extern void disCls03Pro();
+extern void disCls04DatePro();
 
 
 int main()
@@ -23,7 +24,8 @@ int main()
 
 	//disCls01Pro();
 	//disCls02Pro();
-	disCls03Pro();
+	//disCls03Pro();
+	disCls04DatePro();
 
 	cout << endl;
 	cout << endl;
