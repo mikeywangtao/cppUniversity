@@ -12,14 +12,21 @@
 
 using namespace std;
 
+extern void disCe00Pro();
+
 
 int main() {
 	cout << "This is code 12 !!" << endl;
 	cout << endl;
 
+
+	disCe00Pro();
+
+
 	cout << endl;
 	cout << endl;
 	system("pause");
-  return 0;
+  
+	return 0;
 }
 
