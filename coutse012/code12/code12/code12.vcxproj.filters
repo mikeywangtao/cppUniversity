@@ -27,6 +27,9 @@
     <ClInclude Include="CommissionEmployee00.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="BsaePlusCommissionEmployee01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -39,6 +42,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="CommissionEmployee00Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BsaePlusCommissionEmployee01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BsaePlusCommissionEmployee01Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

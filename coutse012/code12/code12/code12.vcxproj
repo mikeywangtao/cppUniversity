@@ -145,11 +145,14 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BsaePlusCommissionEmployee01.h" />
     <ClInclude Include="CommissionEmployee00.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BsaePlusCommissionEmployee01.cpp" />
+    <ClCompile Include="BsaePlusCommissionEmployee01Pro.cpp" />
     <ClCompile Include="code12.cpp" />
     <ClCompile Include="CommissionEmployee00.cpp" />
     <ClCompile Include="CommissionEmployee00Pro.cpp" />

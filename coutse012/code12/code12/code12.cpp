@@ -12,7 +12,8 @@
 
 using namespace std;
 
-extern void disCe00Pro();
+//extern void disCe00Pro();
+extern void disBpce01();
 
 
 int main() {
@@ -20,7 +21,8 @@ int main() {
 	cout << endl;
 
 
-	disCe00Pro();
+	//disCe00Pro();
+	disBpce01();
 
 
 	cout << endl;
