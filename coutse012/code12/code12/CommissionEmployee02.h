@@ -27,7 +27,7 @@ public:
 	string getSocialSecurityNumber() const;
 
 	void setGrossSales(double );
-	double gtGrossSales() const;
+	double getGrossSales() const;
 
 	void setCommissionRate(double );
 	double getCommissionRate() const;

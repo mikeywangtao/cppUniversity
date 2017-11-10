@@ -13,7 +13,8 @@
 using namespace std;
 
 //extern void disCe00Pro();
-extern void disBpce01();
+//extern void disBpce01();
+extern void disBpce02();
 
 
 int main() {
@@ -22,7 +23,8 @@ int main() {
 
 
 	//disCe00Pro();
-	disBpce01();
+	//disBpce01();
+	disBpce02();
 
 
 	cout << endl;

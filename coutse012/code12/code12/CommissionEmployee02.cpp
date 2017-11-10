@@ -55,7 +55,7 @@ void CommissionEmployee02::setGrossSales(double sales) {
 	grossSales = (sales < 0.0) ? 0.0 : sales;
 }
 
-double CommissionEmployee02::gtGrossSales() const {
+double CommissionEmployee02::getGrossSales() const {
 	return grossSales;
 }
 
