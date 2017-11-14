@@ -42,6 +42,12 @@
     <ClInclude Include="BasePlusCommissionEmployee03.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CommissionEmployee04.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BasePlusCommissionEmployee04.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -78,6 +84,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="BasePlusCommissionEmployee03Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CommissionEmployee04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BasePlusCommissionEmployee04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BasePlusCommissionEmployee04Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

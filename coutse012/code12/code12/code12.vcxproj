@@ -147,10 +147,12 @@
   <ItemGroup>
     <ClInclude Include="BasePlusCommissionEmployee02.h" />
     <ClInclude Include="BasePlusCommissionEmployee03.h" />
+    <ClInclude Include="BasePlusCommissionEmployee04.h" />
     <ClInclude Include="BsaePlusCommissionEmployee01.h" />
     <ClInclude Include="CommissionEmployee00.h" />
     <ClInclude Include="CommissionEmployee02.h" />
     <ClInclude Include="CommissionEmployee03.h" />
+    <ClInclude Include="CommissionEmployee04.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
@@ -159,6 +161,8 @@
     <ClCompile Include="BasePlusCommissionEmployee02Pro.cpp" />
     <ClCompile Include="BasePlusCommissionEmployee03.cpp" />
     <ClCompile Include="BasePlusCommissionEmployee03Pro.cpp" />
+    <ClCompile Include="BasePlusCommissionEmployee04.cpp" />
+    <ClCompile Include="BasePlusCommissionEmployee04Pro.cpp" />
     <ClCompile Include="BsaePlusCommissionEmployee01.cpp" />
     <ClCompile Include="BsaePlusCommissionEmployee01Pro.cpp" />
     <ClCompile Include="code12.cpp" />
@@ -166,6 +170,7 @@
     <ClCompile Include="CommissionEmployee00Pro.cpp" />
     <ClCompile Include="CommissionEmployee02.cpp" />
     <ClCompile Include="CommissionEmployee03.cpp" />
+    <ClCompile Include="CommissionEmployee04.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
