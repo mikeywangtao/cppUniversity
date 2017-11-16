@@ -24,12 +24,27 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CommissionEmployee01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BasePlusCommissionEmployee01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="code13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CommissionEmployee01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BasePlusCommissionEmployee01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BasePlusCommissionEmployee01Pro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
