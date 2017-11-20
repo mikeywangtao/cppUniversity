@@ -11,7 +11,8 @@
 
 using namespace std;
 
-extern void dis01Pro();
+//extern void dis01Pro();
+extern void disBpce02Pro();
 
 
 int main()
@@ -19,7 +20,8 @@ int main()
 	cout << "This is code 13!!" << endl;
 	cout << endl;
 
-	dis01Pro();
+	//dis01Pro();
+	disBpce02Pro();
 
 
 	cout << endl;
