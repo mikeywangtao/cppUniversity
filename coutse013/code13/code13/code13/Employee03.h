@@ -4,11 +4,13 @@
 #ifndef EMPLOYEE03
 #define EMPLOYEE03
 
+using namespace std;
+
 class Employee03 {
 public:
 	Employee03(const string &
 	  , const string &
-	  , const string &);
+	  , const string & );
 	virtual ~Employee03();
 
 	void setFirstName(const string & );

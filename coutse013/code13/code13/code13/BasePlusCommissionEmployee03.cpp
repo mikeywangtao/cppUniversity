@@ -31,7 +31,7 @@ double BasePlusCommissionEmployee03::getBaseSalary() const {
 }
 
 double BasePlusCommissionEmployee03::earnings() const {
-	return getBaseSalary() * CommissionEmployee03::earnings();
+	return getBaseSalary() + CommissionEmployee03::earnings();
 }
 
 void BasePlusCommissionEmployee03::print() const {

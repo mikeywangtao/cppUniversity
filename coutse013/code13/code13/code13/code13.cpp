@@ -12,7 +12,9 @@
 using namespace std;
 
 //extern void dis01Pro();
-extern void disBpce02Pro();
+//extern void disBpce02Pro();
+//extern void disBpce03Pro();
+extern void disEmployee04Pro();
 
 
 int main()
@@ -21,7 +23,9 @@ int main()
 	cout << endl;
 
 	//dis01Pro();
-	disBpce02Pro();
+	//disBpce02Pro();
+	//disBpce03Pro();
+	disEmployee04Pro();
 
 
 	cout << endl;
