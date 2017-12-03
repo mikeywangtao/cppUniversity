@@ -149,13 +149,23 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Char01Pro.cpp" />
+    <ClCompile Include="Cinget03Pro.cpp" />
     <ClCompile Include="code15.cpp" />
+    <ClCompile Include="DecOctHexSetbase06Pro.cpp" />
+    <ClCompile Include="Geline04Pro.cpp" />
+    <ClCompile Include="GetEofPut02Pro.cpp" />
+    <ClCompile Include="PrecisionSetprecision07Pro.cpp" />
+    <ClCompile Include="ReadWrite05Pro.cpp" />
+    <ClCompile Include="Showpoint10Pro.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="Userformat09Pro.cpp" />
+    <ClCompile Include="WidthSetw08Pro.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
