@@ -11,7 +11,8 @@
 
 using namespace std;
 
-extern void disFunTemp01Pro();
+//extern void disFunTemp01Pro();
+extern void disStack01Pro();
 
 
 int main(){
@@ -19,7 +20,8 @@ int main(){
 	cout << endl;
 	cout << endl;
 
-	disFunTemp01Pro();
+	//disFunTemp01Pro();
+	disStack01Pro();
 
 	cout << endl;
 	cout << endl;
