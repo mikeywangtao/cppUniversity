@@ -11,12 +11,15 @@
 
 using namespace std;
 
+extern void disFunTemp01Pro();
+
 
 int main(){
 	cout << "This is code 14!!" << endl;
 	cout << endl;
 	cout << endl;
 
+	disFunTemp01Pro();
 
 	cout << endl;
 	cout << endl;
