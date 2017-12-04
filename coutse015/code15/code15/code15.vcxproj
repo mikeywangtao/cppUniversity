@@ -159,6 +159,7 @@
     <ClCompile Include="FullSetfill12Pro.cpp" />
     <ClCompile Include="Geline04Pro.cpp" />
     <ClCompile Include="GetEofPut02Pro.cpp" />
+    <ClCompile Include="IoError18Pro.cpp" />
     <ClCompile Include="LeftRightInternal11Pro.cpp" />
     <ClCompile Include="PrecisionSetprecision07Pro.cpp" />
     <ClCompile Include="ReadWrite05Pro.cpp" />

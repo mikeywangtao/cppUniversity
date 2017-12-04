@@ -27,7 +27,8 @@ using namespace std;
 //extern void disSFixed14Pro();
 //extern void disUppercase15Pro();
 //extern void disBoolalpha16Pro();
-extern void disFlags17Pro();
+//extern void disFlags17Pro();
+extern void disIoError18Pro();
 
 
 int main(){
@@ -51,7 +52,8 @@ int main(){
 	//disSFixed14Pro();
 	//disUppercase15Pro();
 	//disBoolalpha16Pro();
-	disFlags17Pro();
+	//disFlags17Pro();
+	disIoError18Pro();
 
 	cout << endl;
 	cout << endl;
