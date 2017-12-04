@@ -20,7 +20,14 @@ using namespace std;
 //extern void disPs07Pro();
 //extern void disWidthSetw08Pro();
 //extern void disUserformat09Pro();
-extern void disShowpoint10Pro();
+//extern void disShowpoint10Pro();
+//extern void disLri11Pro();
+//extern void disFullSetfill12Pro();
+//extern void disDohs13Pro();
+//extern void disSFixed14Pro();
+//extern void disUppercase15Pro();
+//extern void disBoolalpha16Pro();
+extern void disFlags17Pro();
 
 
 int main(){
@@ -37,7 +44,14 @@ int main(){
 	//disPs07Pro();
 	//disWidthSetw08Pro();
 	//disUserformat09Pro();
-	disShowpoint10Pro();
+	//disShowpoint10Pro();
+	//disLri11Pro();
+	//disFullSetfill12Pro();
+	//disDohs13Pro();
+	//disSFixed14Pro();
+	//disUppercase15Pro();
+	//disBoolalpha16Pro();
+	disFlags17Pro();
 
 	cout << endl;
 	cout << endl;
