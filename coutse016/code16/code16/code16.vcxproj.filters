@@ -24,12 +24,45 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="DivideByZeroException01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Integer07.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="code16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DivideByZeroException01.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DivideByZeroException01Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ThrowExcept02Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Whaterr03Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NewErr04Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NewErr05Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NewErr06Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Autoptr07Pro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Integer07.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
