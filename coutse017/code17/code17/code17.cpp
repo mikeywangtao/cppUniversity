@@ -10,7 +10,7 @@
 
 using namespace std;
 
-
+/*  main*/
 int main() {
 	cout << "This is code 17!! " << endl;
 	cout << endl;
